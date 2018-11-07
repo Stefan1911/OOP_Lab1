@@ -1,0 +1,11 @@
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\bin\Debug\Narudzbenica.exe.config
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\bin\Debug\Narudzbenica.exe
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\bin\Debug\Narudzbenica.pdb
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.csprojAssemblyReference.cache
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.Form1.resources
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.Properties.Resources.resources
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.csproj.GenerateResource.cache
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.csproj.CoreCompileInputs.cache
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.exe
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.pdb
+D:\Work Space\C#\OOP_Lab1\Narudzbenica\Narudzbenica\obj\Debug\Narudzbenica.NewOrder.resources
